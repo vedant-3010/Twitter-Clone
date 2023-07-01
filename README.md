@@ -1,6 +1,6 @@
-#Try it out: [Twitter-Clone](https://twitterclone-alpha.vercel.app/)  
+# Try it out: [Twitter-Clone](https://twitterclone-alpha.vercel.app/)  
   
-##Output:  
+## Output:  
 
 <img width="960" alt="image" src="https://github.com/vedant-3010/twitterclone/assets/92071471/79ec7a43-29c1-46a2-8e26-a6cb1da2b9cf">
 
