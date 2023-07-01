@@ -1,3 +1,13 @@
+#Try it out: [Twitter-Clone](https://twitterclone-alpha.vercel.app/)  
+  
+##Output:  
+
+<img width="960" alt="image" src="https://github.com/vedant-3010/twitterclone/assets/92071471/79ec7a43-29c1-46a2-8e26-a6cb1da2b9cf">
+
+<img width="960" alt="image" src="https://github.com/vedant-3010/twitterclone/assets/92071471/4fa23c4e-0163-4eb0-9342-79131d2cb15f">
+
+
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
